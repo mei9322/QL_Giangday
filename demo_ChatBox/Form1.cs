@@ -66,28 +66,7 @@ namespace demo_ChatBox
             }
 
             return isAuthenticated;*/
-            bool isAuthenticated = false;
 
-            using (SqlConnection connection = new SqlConnection(connectionString))
-            {
-                connection.Open();
-
-                string query = "SELECT COUNT(*) FROM Users WHERE UserId = @UserId AND Password = @Password";
-                using (SqlCommand command = new SqlCommand(query, connection))
-                {
-                    command.Parameters.AddWithValue("@UserId", userId);
-                    command.Parameters.AddWithValue("@Password", password);
-
-                    int count = (int)command.ExecuteScalar();
-
-                    if (count > 0)
-                    {
-                        isAuthenticated = true;
-                    }
-                }
-            }
-
-            return isAuthenticated;
         }
         private int GetLoggedInUserId()
         {
