@@ -1,0 +1,11 @@
+D:\C#\demo_ChatBox\demo_ChatBox\obj\Debug\demo_ChatBox.csproj.AssemblyReference.cache
+D:\C#\demo_ChatBox\demo_ChatBox\obj\Debug\demo_ChatBox.Form1.resources
+D:\C#\demo_ChatBox\demo_ChatBox\obj\Debug\demo_ChatBox.Properties.Resources.resources
+D:\C#\demo_ChatBox\demo_ChatBox\obj\Debug\demo_ChatBox.csproj.GenerateResource.cache
+D:\C#\demo_ChatBox\demo_ChatBox\obj\Debug\demo_ChatBox.csproj.CoreCompileInputs.cache
+D:\C#\demo_ChatBox\demo_ChatBox\bin\Debug\demo_ChatBox.exe.config
+D:\C#\demo_ChatBox\demo_ChatBox\bin\Debug\demo_ChatBox.exe
+D:\C#\demo_ChatBox\demo_ChatBox\bin\Debug\demo_ChatBox.pdb
+D:\C#\demo_ChatBox\demo_ChatBox\obj\Debug\demo_ChatBox.exe
+D:\C#\demo_ChatBox\demo_ChatBox\obj\Debug\demo_ChatBox.pdb
+D:\C#\demo_ChatBox\demo_ChatBox\obj\Debug\demo_ChatBox.Form2.resources
